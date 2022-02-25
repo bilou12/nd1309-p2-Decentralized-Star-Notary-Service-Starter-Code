@@ -20,8 +20,8 @@ const App = {
         deployedNetwork.address,
       );
 
+      console.log('networkId: ' + networkId)
       console.log('deployedNetwork.address: ' + deployedNetwork.address)
-
       console.log('web3 version: ' + web3.version)
 
       const accounts = await web3.eth.getAccounts();
