@@ -7,6 +7,7 @@ DApp with smart contracts deployed on the public testnet and associated front-en
 * Truffle version: Truffle v5.4.32 (core: 5.4.32)
 * OpenZeppelin version: 2.3.0
 * Token Address on the Rinkeby Network: 0x4560162070DdFe27aa90e410a00de39FD074E6A0
+* Etherscan: https://rinkeby.etherscan.io/address/0x4560162070DdFe27aa90e410a00de39FD074E6A0
 
 ### Dependencies
 For this project, you will need to have:
